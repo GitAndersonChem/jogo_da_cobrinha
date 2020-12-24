@@ -1,0 +1,15 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(red, yellow, lime, aqua, blue, magenta, red);
+    color: black;
+	font-family: American Typewriter, serif;
+	
+}
+
+
+
